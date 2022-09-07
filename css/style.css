@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: rgba(255, 206, 102, 0.979);
+}
+
+header {
+    color: white;
+    text-align: center;
+    font: bold 25px Arial;
+}
+
+h1 {
+    margin: 12px;
+}
+
+div#current-time {
+    text-align: center;
+    font: normal 25px Arial;
+    color: black;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 2px 6px 10px rgba(0, 0, 0, 0.2);
+    width: 600px;
+    margin: auto;
+    padding: 15px;
+}
+
+footer {
+    font: italic 20px Arial;
+    color: white;
+    text-align: center;
+}
+
+.img-time {
+    text-align: center;
+    padding-top: 20px;
+}
